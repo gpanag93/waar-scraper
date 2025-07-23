@@ -1,0 +1,23 @@
+
+# Playwright
+node_modules/
+
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+/dist
+/data
+
+*.env
+error-logs/
+
+tests/
+tests-examples/
+/test-results/
+
+auth.json
+
+(complete backup)fetched-links.json
+(complete backup)scraped-observations copy.json
+scraped-observations.xlsx
